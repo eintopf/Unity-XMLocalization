@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<ingame>
+		<string name="points">Punti</string>
+		<string name="coins">Monete</string>
+	</ingame>
+	<languages>
+		<string name="english">Inglese</string>
+		<string name="german">Tedesco</string>
+		<string name="italian">Italiano</string>
+	</languages>
+	<examplestuff>
+		<string name="tutorial_step_1">Questo è il primo punto del tutorial. Spiegare qualcosa.</string>
+	</examplestuff>
+</resources>

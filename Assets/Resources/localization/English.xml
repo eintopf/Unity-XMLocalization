@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<ingame>
+		<string name="points">Points</string>
+		<string name="coins">Coins</string>
+	</ingame>
+	<languages>
+		<string name="english">English</string>
+		<string name="german">German</string>
+		<string name="italian">Italian</string>
+	</languages>
+	<examplestuff>
+		<string name="tutorial_step_1">This is the first tutorial step. Explain something.</string>
+	</examplestuff>
+	<examplestuff>
+		<string name="only_english_string_no_fallback">Only english - no fallback</string>
+	</examplestuff>
+</resources>
